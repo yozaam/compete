@@ -1,4 +1,4 @@
-# Hello People. FInd the following Tasks. You can use any language you prefer.
+# Hello People. Find the following Tasks. You can use any language you prefer.
 ## First 3 people to send a Pull request for all 3 tasks get a tee-shirt sponsored by CodeCostume
 - [ ] Task 1
 ```
